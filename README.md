@@ -1,6 +1,16 @@
 # Filimo Project
 
-Filimo [Demo](https://Hrd-Hamidreza.github.io/Filimo)
+![RepoSize][repo-size]
+
+[![Telegram][telegram-badge]](https://telegram.com)
+[![Instagram][instagram-badge]](https://instagram.com)
+[![WebSite][website-badge]](https://devminds.ir)
+![GitHub followers](https://img.shields.io/github/followers/Hrd-Hamidreza)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Hrd-Hamidreza/Filimo)
+
+---
+
+Filimo [Demo][filimo-demo]
 
 ---
 
@@ -54,7 +64,7 @@ function test() {
 
 ---
 
-![Filimo](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeHkTYmt83BSuG9rfqzAnALLvJ07wTIGlNWrzFewkLgyNEc_XWw9l5NZOgMa3AcLzSgPcgSDMiXp7Vn5x46q2IhSSDhfoPGNeQ2lrJHw)
+![Filimo][filimo]
 
 ---
 
@@ -74,4 +84,29 @@ function test() {
 
 Gone camping! 🧑 Be back soon.
 
-That is so funny! :🧑:
+That is so funny! 🧑
+
+<!-- All README Links -->
+<!--? repo-size -->
+
+[repo-size]: https://img.shields.io/github/repo-size/Hrd-Hamidreza/Filimo
+
+<!--? filimo -->
+
+[filimo]: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeHkTYmt83BSuG9rfqzAnALLvJ07wTIGlNWrzFewkLgyNEc_XWw9l5NZOgMa3AcLzSgPcgSDMiXp7Vn5x46q2IhSSDhfoPGNeQ2lrJHw
+
+<!--? filimo-demo -->
+
+[filimo-demo]: https://Hrd-Hamidreza.github.io/Filimo
+
+<!--? telegram-badge -->
+
+[telegram-badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+<!--? instagram-badge -->
+
+[instagram-badge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+<!--? website-badge -->
+
+[website-badge]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
